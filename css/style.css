@@ -150,6 +150,7 @@ footer{
 
 .star{
     background-image: url(../img/stars.svg);
+    background-position: 50%;
 }
 
 .padding-bottom{
